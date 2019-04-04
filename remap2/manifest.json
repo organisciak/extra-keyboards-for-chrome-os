@@ -1,0 +1,22 @@
+{
+  "name": "No V",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "My V broke, this is a remap",
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": [
+    "input"
+  ],
+  "input_components": [
+    {
+      "name": "No V",
+      "type": "ime",
+      "id": "no-v",
+      "description": "No V",
+      "language": "en-US",
+      "layouts": ["us"]
+    }
+  ]
+}
