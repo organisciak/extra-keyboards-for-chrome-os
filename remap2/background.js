@@ -17,7 +17,6 @@ limitations under the License.
 var contextID = 0;
   
 var lut = {
-  "Backquote": {"code": "KeyV", "shift":"V", "plain":"v"},
   "AltRight": {"code": "KeyV", "shift":"V", "plain":"v"}
 };
 
